@@ -35,14 +35,15 @@
     width: 100%;
     text-align: center;
     overflow: hidden;
-    color: #454C4F;
+    color: #fff;
     font-size: 83px;
-    font-weight: 500;
+    font-weight: 300;
     font-style: italic;
-    /
 }
 
 .animated-text {
     display: inline-block;
     white-space: nowrap;
 }
+
+

@@ -1,0 +1,28 @@
+
+@media only screen and (max-width: 768px) {
+    .image-container img {
+        display: none; 
+    }
+    h1 {
+        font-size: 1.5em;
+    }
+
+    h2 {
+        font-size: 4rem;
+        margin-top: auto;
+        padding: auto;
+    }
+
+    .container {
+        margin-top: 300px;
+        
+    }
+
+    .intro{
+        margin-top: 0;
+    }
+
+    .text-container, .text-container-2 {
+        font-size: 20px;
+    }
+}
